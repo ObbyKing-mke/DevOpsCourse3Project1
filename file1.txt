@@ -1,3 +1,4 @@
 Hello world my name is Andy Lund!
 Adding a new line for the feature/change2 branch
 This is me making a change for the feature/change1 branch
+Adding a new critical fix!
